@@ -55,8 +55,9 @@ main{
 
 h2{
     font-size: 56px;
-    line-height: 10px;
+    line-height: 56px;
     Font-family: 'Poppins', sans-serif;
+    color: rgb(132, 13, 201);
 }
 
 span{
